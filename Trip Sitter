@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/trip-sitter.git
+cd trip-sitter
+unzip trip_sitter_pwa.zip -d .
+git add .
+git commit -m "Initial MVP"
+git push origin main
